@@ -396,6 +396,7 @@ public class FilmBioskop extends javax.swing.JFrame {
                 Logger.getLogger(FilmBioskop.class.getName()).log(Level.SEVERE, null, ex);
             }
         }
+        bersih();
         showTable(); // reload data biar terlihat update-nya
     }//GEN-LAST:event_btnUpdateActionPerformed
 
