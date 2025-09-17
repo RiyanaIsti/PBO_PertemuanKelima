@@ -397,7 +397,6 @@ public class FilmBioskop extends javax.swing.JFrame {
             }
         }
         showTable(); // reload data biar terlihat update-nya
-        JOptionPane.showMessageDialog(null, "Data berhasil diupdate");
     }//GEN-LAST:event_btnUpdateActionPerformed
 
     private void btnDeleteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnDeleteActionPerformed
